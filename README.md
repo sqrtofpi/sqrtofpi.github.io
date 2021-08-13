@@ -1,5 +1,5 @@
 # Belly Button Biodiversity
-Module 12: Plotly & Belly Button Biodiversity
+Module 12:  Plotly & Belly Button Biodiversity
 
 ## Purpose
 
